@@ -62,11 +62,5 @@ A fully functional **ride booking backend system** built using **Python** and **
 | date_booked      | varchar(90) | YES  |     | NULL    |       |
 +------------------+-------------+------+-----+---------+-------+
 
-## 📸 Sample Features in Action
-
-> _Screenshots or sample command-line outputs can go here if available._  
-> (E.g., Booking message: `"Your ride is scheduled and will be at your service at 5:30 PM."`)
-
----
 
 
